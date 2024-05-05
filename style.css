@@ -1,7 +1,7 @@
  /*****COMMON CSS SECTION*****/
  * {
 	box-sizing: border-box;
-	margin: 0;
+	margin: 10;
 	padding: 0;
 	-outline: 0;
 	font-family Roboto, sans-serif, arial;
